@@ -1,4 +1,4 @@
-package com.jamesvrooney.controllers;
+package com.jamesvrooney.controllers.integration;
 
 import com.jamesvrooney.domain.Book;
 import org.junit.jupiter.api.Test;
